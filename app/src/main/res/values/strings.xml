@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CountriesList</string>
+    <string name="an_error_has_occurred_while_loading_data">An Error has occurred while loading data</string>
 </resources>
